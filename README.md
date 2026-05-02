@@ -1,8 +1,8 @@
 # ShopList App - Pemrograman Mobile Pertemuan 6
 
 ## Nama & NIM
-- Nama: [Nama Kamu]
-- NIM:  [NIM Kamu]
+- Nama: [Rachel Kris Yanti Hutagalung]
+- NIM:  [243303621258]
 
 ## Fitur yang Diimplementasikan
 - [x] FlatList dengan 12+ produk
@@ -18,13 +18,13 @@
 
 ## Screenshot
 ### Tampilan Utama (List Produk)
-[assets/utama.jpeg]
+![App Screen](assets/utama.jpeg)
 
 ### Tampilan Search — saat ada hasil
-[screenshot HP fisik di sini]
+![App Screen](assets/searching.jpeg)
 
 ### Tampilan Empty State — saat tidak ada hasil
-[screenshot HP fisik di sini]
+![App Screen](assets/kosong.jpeg)
 
 ## Cara Menjalankan
 1. Clone repo  : git clone [url-repo-kamu]
