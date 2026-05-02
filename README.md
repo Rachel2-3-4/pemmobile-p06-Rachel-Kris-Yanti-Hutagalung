@@ -18,7 +18,7 @@
 
 ## Screenshot
 ### Tampilan Utama (List Produk)
-[assets/utama]
+[assets/utama.jpeg]
 
 ### Tampilan Search — saat ada hasil
 [screenshot HP fisik di sini]
